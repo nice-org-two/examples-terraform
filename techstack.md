@@ -20,8 +20,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/examples-terraform](https://github.com/nice-org-two/examples-terraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|2<br/>Contributors|11/08/23 <br/>Report generated|04/08/20<br/>Last commit date|
-|------|------|------|------|
+|3<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
