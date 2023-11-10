@@ -1,7 +1,7 @@
 repo_name: nice-org-two/examples-terraform
-report_id: 51b88b5b90c949434d6233315ea9fb5f
+report_id: 556ff19bb971da80a92caf4a72a1dd16
 repo_type: Public
-timestamp: '2023-11-08T20:17:20+00:00'
+timestamp: '2023-11-10T16:27:37+00:00'
 requested_by: web-flow
 provider: github
 branch: release/v0.2
@@ -27,6 +27,8 @@ tools:
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: azure/remote-region/main.tf
+  last_updated_by: Sebastian Brandt
+  last_updated_on: 2019-07-22 09:23:51.000000000 Z
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
     providers
@@ -38,3 +40,5 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: azure/remote-region/main.tf
+  last_updated_by: Sebastian Brandt
+  last_updated_on: 2019-07-22 09:23:51.000000000 Z
